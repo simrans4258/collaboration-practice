@@ -2,7 +2,7 @@
 #### 2
 #### 3 Bob was here!
 #### 4
-#### 5
+#### 5 I love dogs!
 #### 6
 #### 7 I like ice cream!
 #### 8
